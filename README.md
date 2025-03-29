@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Mi chiamo Manuela Zanni e sono un ingegnere elettronico.
+Attualmente lavoro come project manager e analista funzionale presso la Createck S.c.a.r.l.
+
+Per ulteriori informazioni contattami
+📫 m.zanni@createck.it
+
 <!--
 **manuelazanni/manuelazanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-.
